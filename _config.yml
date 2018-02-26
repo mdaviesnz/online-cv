@@ -1,8 +1,8 @@
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+url: 'https://mdaviesnz.github.io/online-resume/'
+baseurl: '/online-resume' #change it according to your repository name
+about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -10,32 +10,29 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
+style: styles-6
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+name: Michael Davies
+tagline: System, Network, Infrastructure Engineer
+pic: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'A career built within OceanaGold from an entry level position through to a senior leadership role. A team member, respected for many years of experience and willingness to share information and assist others. Always keenly involved in innovation and growth, both personally and professionally. Continually seeking new knowledge, skills and abilities.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: michael@davies.net.nz
+phone: 027 416 8023
+#website: michael.davies.net.nz #do not add http://
+#linkedin: alandoe
+#github: sharu725
+#twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 #education_in_main: True
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Build settings
 encoding: "utf-8"

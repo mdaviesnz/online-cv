@@ -1,16 +1,6 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Bachelor in Information Technology (Incomplete)
+  university: Otago Polytechnic
+  time: 2003 - 2006
+  details: "Focused on Networking (Cisco), Operating Systems and Security"
+

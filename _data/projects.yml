@@ -1,23 +1,15 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Office 365
+    tagline: "Assisted with planning and migration of key business systems from existing on-premise Microsoft Exchange and Sharepoint to SAAS offerings from Microsoft. Provided cost savings to the company with reduced administration and maintenance overhead and ensured support for future company growth. "
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Branch Office Setup in El Salvador
+    tagline: "Involved in all stages of a project to setup a new remote company office location in San Salvador, including planning/design/specification, procurement, deployment and setup."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: Corporate Services Cloud Migration
+    link: "http://http://www.softlayer.com/"
+    tagline: "Key role in a project to move key corporate services from on-premise hosting to SAAS/IAAS services provided by IBM Softlayer with the goal of providing improved corporate service performance to the global company while reducing the need for capital expenditure on server and network infrastructure. "
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Didipio Underground Mine Network
+    link: "http://www.oceanagold.com/our-business/philippines/didipio-mine/"
+    tagline: "A technical advisory role in the product to develop an underground mine at the OceanaGold Didipio mine in the Philippines. Involved research into vendor and key technology options for a network to provide connectivity for voice communication, vehicle telemetry and worker safety. Technical input resulted in the delivery of a highly robust and future-proof communications network when the mine began production in 2017." 
