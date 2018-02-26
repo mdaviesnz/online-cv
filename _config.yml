@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: Michael Davies - Resume
 url: 'https://mdaviesnz.github.io/online-resume/'
 baseurl: '/online-resume' #change it according to your repository name
 about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
